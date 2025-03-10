@@ -1,0 +1,60 @@
+.container {
+    width: 80%;
+    margin: 1rem auto 100px;
+    background-color: rgb(116, 64, 116);
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: rgb(194, 77, 223);
+}
+
+nav {
+    width: 25%;
+    height: 50px;
+    background-color: #f20d92ad;
+    margin: 15px auto;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.contsec {
+    display: flex;
+    justify-content: space-around;
+    padding: 1px 0;
+    width: 100%;
+}
+
+.cuadrito1 {
+    width: 10%;
+    height: 25px;
+    background-color: #d61887ad;
+    margin: 15px 10px;
+    border: 1px solid hsl(0, 15%, 94%);
+    border-radius: 20px;
+}
+
+.cuadrito2 {
+    height: 69px;
+    width: 10ch;
+    background-color: #c93c8ead;
+    margin: 40px auto;
+    border: 1px solid hsl(0, 0%, 100%);
+}
+
+.div2 {
+    background-color: rgb(230, 105, 198);
+    width: 70%;
+    height: 160px;
+    margin: 15px auto;
+    border: 1px solid rgb(246, 240, 240);
+    text-align: center;
+}
+
+.diseño3, .diseño4 {
+    width: 20%;
+    height: 180px;
+    background-color: #c93c8ead;
+    margin: 15px 10px;
+    border: 1px solid hsl(0, 17%, 92%);
+}
