@@ -1,21 +1,26 @@
 .container {
     width: 80%;
     margin: 1rem auto 100px;
-    background-color: rgb(116, 64, 116);
+    background-color: aliceblue;
     display: flex;
     flex-direction: column;
 }
 
 body{
-    background-color: rgb(194, 77, 223);
+    background-color:rgb(240, 248, 255)
 }
 
 nav {
     width: 25%;
     height: 50px;
-    background-color: #f20d92ad;
+    background-color: rgb(255, 181, 243);
     margin: 15px auto;
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(14, 14, 14);
+}
+.section2{
+    background-color:rgb(255, 181, 243);
+    width: 85%;
+    border: 1px solid black;
 }
 
 .contsec {
@@ -28,7 +33,7 @@ nav {
 .cuadrito1 {
     width: 10%;
     height: 25px;
-    background-color: #d61887ad;
+    background-color: rgb(255, 129, 224);
     margin: 15px 10px;
     border: 1px solid hsl(0, 15%, 94%);
     border-radius: 20px;
@@ -37,25 +42,66 @@ nav {
 .cuadrito2 {
     height: 69px;
     width: 10ch;
-    background-color: #c93c8ead;
+    background-color: rgb(255, 112, 191);
     margin: 40px auto;
     border: 1px solid hsl(0, 0%, 100%);
 }
 
+.cuadrito4 {
+    background-color: rgb(255, 181, 243);;
+    width: 4%;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border: solid 1px black;
+    margin-top:16px;
+
+}
+
 .div2 {
     background-color: rgb(230, 105, 198);
-    width: 70%;
+    width: 80%;
+    margin: 1% auto 1px; 
     height: 160px;
-    margin: 15px auto;
     border: 1px solid rgb(246, 240, 240);
     text-align: center;
 }
 
-.diseño3, .diseño4 {
-    width: 20%;
-    height: 180px;
-    background-color: #c93c8ead;
-    margin: 15px 10px;
-    border: 1px solid hsl(0, 17%, 92%);
+
+.div3 {
+    background-color: rgb(230, 105, 198);
+    width: 100%;
+    margin: 1% auto 1px; 
+    height: 100px;
+    border: 1px solid rgb(246, 240, 240);
+    text-align: center;
+    width: 80%;
+    margin: 1% auto 1px; 
+    border: 1px solid rgb(246, 240, 240);
+    text-align: center;
 }
-/*hola cambio*/
+
+
+.diseño3, .diseño4 {
+
+    width: 17%;
+    margin: 1% auto 1px;
+    height: 180px;
+    background-color:rgb(244, 117, 255);
+}
+.cuadros{
+    width: 19%;
+    height: 50px;
+    background-color: aliceblue;
+    margin: 15px auto;
+    border: 1px solid rgb(14, 14, 14);
+}
+
+.div4{
+    width: 19%;
+    height: 20px;
+    background-color: aliceblue;
+    margin: 15px auto;
+    border: 1px solid rgb(14, 14, 14);
+}
